@@ -1,1 +1,2 @@
-# Hillel_HomeWork_2
+# My name is Heorhii Smirnov
+# Odessa Hillel's student
