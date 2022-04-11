@@ -1,2 +1,2 @@
 # My name is Heorhii Smirnov
-# Odessa Hillel's student
+# Odessa Hillel's student python Pro
